@@ -1,6 +1,6 @@
  body {background-color: #F0F8FF; font-size: 130%; font-family:comic sans ms;
 }
-a:link, a:visited {Background-color: none; color: blue; text-align:center;padding: 5px 8px;border-style:dotted;
+a:link, a:visited {Background-color: none; color: blue; text-align:center;padding: 5px 8px;border-style:inset;
   }
 ul {
     list-style-type: none;
